@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a7fd054-916c-4b4d-b8b4-c1e6344336ca" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/djangoHomeProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/djangoHomeProject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoHome/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoHome/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoHome/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoHome/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoHome/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoHome/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoHome/templates/text/new.html" beforeDir="false" afterPath="$PROJECT_DIR$/djangoHome/templates/text/new.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangoHomeProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoHomeProject/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangoHomeProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoHomeProject/urls.py" afterDir="false" />
     </list>
