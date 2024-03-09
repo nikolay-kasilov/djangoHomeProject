@@ -4,7 +4,7 @@ from .models import Articles
 
 
 def index(request):
-    return  render(request,'text/index.html')
+    return  render(request,'text/index.html',{'title':'Главная страница'})
 
 
 def about(request):

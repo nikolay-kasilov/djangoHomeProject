@@ -1,4 +1,48 @@
+{% load static %}
+body {
+ background: rgba(138, 140, 160, 0.34);
+}
+aside{
+ float:left;
+ background: #181818;
+ white: 20%;
+ padding: 2.5%;
+ height: 100vh;
+ color: azure;
+ border-right: 5px solid black;
 
-body{
- backgroud: green;
+
+}
+aside img{
+ width:80px ;
+ float: left;
+}
+aside.logo {
+ font-size:40px;
+ margin-left: 10px;
+ font-weite:bolt;
+ top: -5px;
+}
+aside h3{
+ margin-top: 50px;
+ font-size: 29px;
+}
+aside ul{list-style: none}
+aside ul li{
+ color:#fff;
+ display: block;
+ margin-top: 20px;
+ transition:transform  .6s ease;
+}
+aside ul li:hover,aside ul a:hover{
+ color: red;
+ text-decoration: none;
+ transform-scale(2.1) ;
+}
+main .features {
+ float:left;
+ color:black;
+ margin-top: 100px;
+ text-align: center;
+ width: 75%;
 }
