@@ -8,14 +8,12 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangoHome/static/statico/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/djangoHome/static/statico/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoHome/templates/news/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoHome/templates/news/news.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/djangoHome/templates/text/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/djangoHome/templates/text/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangoHome/templates/text/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/djangoHome/templates/text/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangoHome/templates/text/new.html" beforeDir="false" afterPath="$PROJECT_DIR$/djangoHome/templates/text/new.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoHome/templates/text/news.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoHome/templates/text/test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoHome/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoHome/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangoHome/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoHome/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homeNews/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeNews/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homeNews/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeNews/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,11 +67,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pekol\djangoHomeProject\homeNews\templates" />
+      <recent name="C:\Users\pekol\djangoHomeProject\homeNews" />
       <recent name="C:\Users\pekol\djangoHomeProject\djangoHome\static\statico\img" />
       <recent name="C:\Users\pekol\djangoHomeProject\djangoHome\templates\text" />
       <recent name="C:\Users\pekol\djangoHomeProject\djangoHome\templates\css" />
-      <recent name="C:\Users\pekol\djangoHomeProject\djangoHome\templates\html" />
-      <recent name="C:\Users\pekol\djangoHomeProject\djangoHome" />
     </key>
   </component>
   <component name="RunManager">
@@ -137,11 +135,25 @@
       <workItem from="1710057306163" duration="7709000" />
       <workItem from="1710088106036" duration="513000" />
       <workItem from="1710088661933" duration="680000" />
-      <workItem from="1710089780914" duration="9273000" />
+      <workItem from="1710089780914" duration="9514000" />
+      <workItem from="1710148819702" duration="14283000" />
+      <workItem from="1710248473299" duration="6324000" />
+      <workItem from="1710494004744" duration="231000" />
+      <workItem from="1710511685616" duration="644000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/homeNews/urls.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

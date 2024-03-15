@@ -1,15 +1,15 @@
-{% load static  %}
+{% load statico %}
 body {
  background: rgba(210, 132, 92, 0.34);
 }
 aside{
  float:left;
  background: #181818;
- width: 20%;
+ width: 18%;
  padding: 2.5%;
  height: 100vh;
  color: azure;
- border-right: 5px solid green;
+ border-right: 5px solid red;
 
 
 }
@@ -20,7 +20,7 @@ aside img{
 aside .logo {
  font-size:25px;
  margin-left: 10px;
- font-weite:bolt;
+
  top: -5px;
 }
 aside h3{
@@ -34,22 +34,20 @@ aside ul li{
  margin-top: 20px;
  transition:transform  .6s ease;
 }
-aside ul li:hover,aside ul a:hover{
+aside ul li:hover,aside ul a:hover {
  color: red;
  text-decoration: none;
- transform-scale(2.1) ;
+transform-scale(2.1);
 }
 
 
 
 
-div button {
-text-align: center;
- color: blue;
 
+
+main .features h1{font-size: 40px;display:block;text-align: center;
 }
-main .features h1{font-size: 40px; text-align: center}
-main .features p {max-width: 400px; margin: 20px; text-align: center;  }
+main .features p { display: block ;text-align: center}
 
 .alert-warning {
  float: left;

@@ -4,7 +4,11 @@ from .models import Articles
 
 
 def index(request):
-    return  render(request,'text/index.html',{'title':'Главная страница'})
+    data ={
+        'title': 'Главная страница',
+        'values':['<h1>jhhbbg</h1>']
+    }
+    return  render(request,'text/index.html' , data)
 
 
 def about(request):
@@ -14,6 +18,3 @@ def about(request):
 def new(request):
     return  render(request,'text/new.html')
 
-def new_home(request):
-    news = Articles.objects.all()
-    return render(request,'news/news.html',{'news':news})
